@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Mi primer artículo",
+      "content": "Este es el contenido de mi primer artículo.",
+      "author_id": "user123",
+      "user_insect_id": "insect456",
+      "comments": []
+    },
+    {
+      "title": "Noticia importante",
+      "content": "Una noticia que debes conocer.",
+      "author_id": "admin",
+      "user_insect_id": "system",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    },
+    {
+      "title": "Pregunta frecuente",
+      "content": "¿Cómo puedo hacer esto?",
+      "author_id": "user789",
+      "user_insect_id": "guest1",
+      "comments": []
+    }
+  ]
